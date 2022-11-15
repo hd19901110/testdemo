@@ -9,4 +9,4 @@ Hello word!
 Hello word!
 Hello word!
 Hello word! master test
-Hello word!
+Hello word! hot-fix
